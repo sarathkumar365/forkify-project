@@ -1,0 +1,5 @@
+.parcel-cache
+.vscode
+.prettierrc
+node_modules
+dist
